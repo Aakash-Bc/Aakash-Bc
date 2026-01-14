@@ -23,7 +23,7 @@ I aim to contribute to **innovative, real-world projects** that combine creativi
 ---
 
 ## 📌 Career Goal
-Actively seeking **internship opportunities** in web/software development, AI/ML, or data analysis where I can learn, contribute, and grow.
+Actively seeking **internship opportunities** in web/software development where I can learn, contribute, and grow.
 
 
 
