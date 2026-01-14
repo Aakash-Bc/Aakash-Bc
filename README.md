@@ -1,30 +1,33 @@
-## Hi there 👋 I'm Aakash Budhathoki
+<p align="center">
+  🎓 <b>BCA Student | Citizen College, Pokhara University</b>
+</p>
 
-🎓 **BCA Student | Pokhara University**  
-🏫 Citizen College  
-
-💡 A curious learner constantly exploring **“what”, “why not”, and “how”** behind every technology — from code to cloud.
+<p align="center">
+  💡 Curious learner exploring “what”, “why not”, and “how” behind every technology.
+</p>
 
 ---
 
 ## 🌟 About Me
-I’m currently pursuing a **Bachelor’s degree in Computer Applications (BCA)** at Citizen College, affiliated with Pokhara University.  
-With a strong interest in technology and problem-solving, I aim to contribute to **innovative, growth-oriented projects** that connect creativity with real-world impact.
+Pursuing a **Bachelor’s in Computer Applications (BCA)** with a passion for technology and problem-solving.  
+I aim to contribute to **innovative, real-world projects** that combine creativity with impact.
 
 ---
 
-## 🚀 Interests & Focus
-- 🤖 AI / ML Development  
-- 📊 Data Analysis  
-- 🐍 Exploring Python  
-- 🌐 Web & Software Development  
+## 🚀 Skills & Interests
+- **Web Development:** HTML, CSS, JavaScript, PHP, Laravel, MySQL  
+- **MERN Stack:** MongoDB, Express, React, Node.js (Learning)  
+- **AI/ML & Data Analysis:** Python exploration  
+- **Other Interests:** Problem-solving, building projects, continuous learning
 
 ---
 
 ## 📌 Career Goal
-Actively seeking **internship opportunities** where I can learn, contribute, and grow as a developer.
+Actively seeking **internship opportunities** in web/software development, AI/ML, or data analysis where I can learn, contribute, and grow.
 
 ---
 
 ## 🐍 GitHub Contribution Snake
-![GitHub Snake](https://raw.githubusercontent.com/Aakash-Bc/Aakash-Bc/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aakash-Bc/Aakash-Bc/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
+</p>
