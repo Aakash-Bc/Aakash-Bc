@@ -1,9 +1,9 @@
 <p align="center">
-  🎓 <b>BCA Student | Citizen College, Pokhara University</b>
+  <strong style="font-size: 24px;">🎓 BCA Student | Citizen College, Pokhara University</strong>
 </p>
 
 <p align="center">
-  💡 Curious learner exploring “what”, “why not”, and “how” behind every technology.
+  💡 Curious learner exploring <em>“what”, “why not”, and “how”</em> behind every technology.
 </p>
 
 ---
@@ -15,7 +15,7 @@ I aim to contribute to **innovative, real-world projects** that combine creativi
 ---
 
 ## 🚀 Skills & Interests
-- **Web Development:** HTML, CSS, JavaScript, PHP, Laravel, MySQL  
+- **Web Development:** HTML, CSS, JavaScript, PHP, MySQL  
 - **MERN Stack:** MongoDB, Express, React, Node.js (Learning)  
 - **AI/ML & Data Analysis:** Python exploration  
 - **Other Interests:** Problem-solving, building projects, continuous learning
@@ -25,9 +25,5 @@ I aim to contribute to **innovative, real-world projects** that combine creativi
 ## 📌 Career Goal
 Actively seeking **internship opportunities** in web/software development, AI/ML, or data analysis where I can learn, contribute, and grow.
 
----
 
-## 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aakash-Bc/Aakash-Bc/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
-</p>
+
