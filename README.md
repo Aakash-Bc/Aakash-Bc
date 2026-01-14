@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 24px;">🎓 BCA Student | Citizen College, Pokhara University</strong>
+  <strong style="font-size: 40px;">🎓 BCA Student | Citizen College, Pokhara University</strong>
 </p>
 
 <p align="center">
