@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Aakash-Bc/Aakash-Bc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there, I am Aakash Budhathoki
+🎓 BCA student from Nepal  
+💻 Aspiring Software Engineer & Web Developer  
+🌱 Currently learning modern web development and software engineering  
+🛠️ Tech Stack: HTML, CSS, JavaScript, PHP, MySQL  
+🌱 Currently learning MERN Stack (MongoDB, Express, React, Node.js)
+🚀 Exploring React, Git, and real-world project development  
+👯 Open to collaborating on web and software projects  
+📫 Reach me at: aakashbc24@gmail.com  
+😄 Pronouns: he/him  
+⚡ Fun fact: I love learning new technologies and building projects from scratch.
