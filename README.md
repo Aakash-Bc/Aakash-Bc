@@ -29,8 +29,8 @@ I aim to contribute to **innovative, real-world projects** that combine creativi
 
 ## 🚀 Skills & Interests
 - **Web Development:** HTML, CSS, JavaScript, PHP, Laravel, MySQL  
-- **MERN Stack:** MongoDB, Express, React, Node.js (Learning)  
-- **AI/ML & Data Analysis:** Python exploration  
+- **MERN Stack:** MongoDB, Express, React, Node.js, (Learning)  
+- **AI/ML & Data Analysis:** Python exploration (Interesting)  
 - **Other Interests:** Problem-solving, building projects, continuous learning
 
 ---
