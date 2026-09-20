@@ -1,31 +1,33 @@
-<h1 align="center">Hi, I'm <Your Name> 👋</h1>
+<h1 align="center">Hi, I'm <Aakash Budhathoki> 👋</h1>
 
 <p align="center">
-  BCA student at Citizen College, Pokhara University · Kathmandu, Nepal<br>
-  I build for the web and take things apart to understand <b>what</b>, <b>why not</b>, and <b>how</b>.
+  BCA graduate · Citizen College, Pokhara University · Kathmandu, Nepal<br>
+  Full-stack web developer. I take things apart to understand <b>what</b>, <b>why not</b>, and <b>how</b>.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/<your-handle>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:<your@email.com>"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="<your-portfolio-url>"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="<link-to-resume.pdf>"><img src="https://img.shields.io/badge/Résumé-4285F4?style=flat-square&logo=googledocs&logoColor=white" alt="Résumé"></a>
 </p>
 
 ---
 
 ### 🧭 About
 
-I'm a BCA undergraduate focused on full-stack web development. Most of what I know came from
-building things that broke, then figuring out why. Right now I'm deepening my backend skills
-with Laravel and working through the MERN stack, with Python on the side for data work.
+I completed my BCA in <2026> and build for the web — mostly PHP/Laravel on the backend,
+with MySQL underneath. Most of what I know came from building things that broke, then
+figuring out why. Currently extending into the MERN stack and writing Python for data work.
 
-**Open to internships** in web/software development — remote or Kathmandu-based.
+**🟢 Available for full-time roles** — junior backend / full-stack developer.
+Open to Kathmandu-based or remote.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Comfortable with**
+**Working knowledge**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -49,11 +51,9 @@ with Laravel and working through the MERN stack, with Python on the side for dat
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[<Project Name>](<repo-url>)** | <One line: the problem it solves, not the features.> | Laravel · MySQL |
+| **[<Final Year Project>](<repo-url>)** | <The problem it solves, in one line.> | Laravel · MySQL |
 | **[<Project Name>](<repo-url>)** | <One line.> | React · Node · MongoDB |
 | **[<Project Name>](<repo-url>)** | <One line.> | JavaScript · API |
-
-> Pin these same repos on your profile so they appear above the fold.
 
 ---
 
@@ -66,10 +66,10 @@ with Laravel and working through the MERN stack, with Python on the side for dat
 
 ---
 
-### 🎯 What I'm working toward
+### 🎯 Right now
 
-- Shipping one complete MERN project end-to-end, deployed and documented
-- Writing cleaner, tested backend code instead of just working code
-- Landing an internship where I can learn from people further along than me
+- Rebuilding my final-year project properly — tests, docs, deployed
+- Going deeper on React and Node to round out full-stack
+- Looking for a team where I can learn from people further along than me
 
-<p align="center"><sub>Always happy to talk about a project, a bug, or an idea. Reach out.</sub></p>
+<p align="center"><sub>Happy to talk about a project, a bug, or an idea. Reach out.</sub></p>
