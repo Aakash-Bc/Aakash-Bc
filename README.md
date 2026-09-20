@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/aakash-budhathoki-7a3773281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:aakashbc24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://aakashbudhathoki.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/Aakash-Bc/Aakash-Bc/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Résumé-4285F4?style=flat-square&logo=googledocs&logoColor=white" alt="Résumé"></a>
+  <a href="https://github.com/Aakash-Bc/Aakash-Bc/blob/main/AakashCV.pdf"><img src="https://img.shields.io/badge/Résumé-4285F4?style=flat-square&logo=googledocs&logoColor=white" alt="Résumé"></a>
 </p>
 
 ---
