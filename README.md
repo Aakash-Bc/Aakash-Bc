@@ -8,15 +8,15 @@
 
 <p align="center">
   <a href="https://github.com/Aakash-Bc"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/<your-handle>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:<aakashbc24@gmail.com>"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/aakash-budhathoki-7a3773281/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:aakashbc24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://aakashbudhathoki.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="<link-to-resume.pdf>"><img src="https://img.shields.io/badge/Résumé-4285F4?style=flat-square&logo=googledocs&logoColor=white" alt="Résumé"></a>
+  <a href="https://github.com/Aakash-Bc/Aakash-Bc/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Résumé-4285F4?style=flat-square&logo=googledocs&logoColor=white" alt="Résumé"></a>
 </p>
 
 ---
 
-### 🧭 About
+### 🧭 About Me
 
 I'm a full-stack developer working primarily with the MERN stack, with a BCA from
 Citizen College (Pokhara University), completed in <2026>. I build web applications
