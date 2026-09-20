@@ -61,7 +61,6 @@ Most of what I know came from building things that broke, then figuring out why.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
@@ -93,8 +92,8 @@ More at **[aakashbudhathoki.com.np](https://aakashbudhathoki.com.np)**
 ### 📊 GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&hide_border=true&theme=default" alt="Top languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aakash-Bc&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Bc&layout=compact&hide_border=true&theme=default" alt="Top languages">
 </p>
 
 ---
