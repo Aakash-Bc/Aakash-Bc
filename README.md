@@ -89,14 +89,6 @@ More at **[aakashbudhathoki.com.np](https://aakashbudhathoki.com.np)**
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aakash-Bc&show_icons=true&hide_border=true&theme=default" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Bc&layout=compact&hide_border=true&theme=default" alt="Top languages">
-</p>
-
----
 
 ### 🎯 Right now
 
