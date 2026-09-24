@@ -72,7 +72,7 @@ Most of what I know came from building things that broke, then figuring out why.
 
 ### 🤝 Soft Skills
 
-`<Problem Solving>` · `<Team Work>` · `<Communication>` · `<Leadership>`
+`<Problem Solving>` · `<Team Work>` · `<Communication>` · `<Leadership>`· `<Fast Learner>`
 
 ---
 
